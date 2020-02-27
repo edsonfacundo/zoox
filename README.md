@@ -1,6 +1,6 @@
 npm install <br>
-cd zoox 
-npm install
-ng build --prod
-cd ..
-npm run start
+cd zoox <br>
+npm install <br>
+ng build --prod <br>
+cd .. <br>
+npm run start <br>
