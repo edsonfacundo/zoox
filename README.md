@@ -1,5 +1,5 @@
-npm install \r\n
-cd zoox \r\n
+npm install 
+cd zoox 
 npm install
 ng build --prod
 cd ..
